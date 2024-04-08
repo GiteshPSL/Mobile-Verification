@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Mobile_Verification_API_Key</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Mobile Verification API Key</shortDescription>
+        <value>6C7EA6045FFB4B0AAD5E34AF5C42C013</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>MobileNumberVerificationController</members>
+        <members>MobileNumberVerificationControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>MobileNumberVerificationAura</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Contact.Mobile_Number_verified__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Mobile_Verification_API_Key</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>mobileNumberVerificationCMP</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <types>
+        <members>Contact.Mobile_Number_Verification</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
+        <members>Mobile_Verification</members>
+        <name>RemoteSiteSetting</name>
+    </types>
+    <version>58.0</version>
+</Package>
